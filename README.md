@@ -22,6 +22,6 @@ This is a simple Python console game where the computer guesses the number you t
 
 ## Screenshots
 ### Start Menu
-
+![alt text](menu.png)
 ### Winning Screen
 ![alt text](winpic.png)
