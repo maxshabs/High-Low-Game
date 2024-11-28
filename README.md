@@ -15,7 +15,7 @@ This is a simple Python console game where the computer guesses the number you t
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/high-low-game.git
+   git clone https://github.com/maxshabs/high-low-game.git
 2. Run the script:
    ```bash
    python high_low_game.py
