@@ -26,7 +26,7 @@ art = """                                        .
 for line in art.splitlines():
     print(line)
     time.sleep(0.05)
-print("Welcome! I will guess the number you think off")
+print("Welcome! I will guess the number you think of")
 time.sleep(0.4)
 print("Think of a number between {} and {}, I will get it in less than "
       "10 guesses".format(low, high))
