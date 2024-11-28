@@ -11,7 +11,6 @@ This is a simple Python console game where the computer guesses the number you t
 - Interactive and intuitive gameplay.
 - Displays an ASCII art splash screen at the start of the game.
 - Implements binary search to efficiently guess the number.
-- Friendly winning screen on a correct guess.
 
 ## Getting Started
 1. Clone the repository:
