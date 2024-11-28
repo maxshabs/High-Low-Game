@@ -25,7 +25,7 @@ art = """                                        .
                             :::-=. .+++++++++++++   ...     """
 for line in art.splitlines():
     print(line)
-    time.sleep(0.1)
+    time.sleep(0.05)
 print("Welcome! I will guess the number you think off")
 time.sleep(0.4)
 print("Think of a number between {} and {}, I will get it in less than "
@@ -47,7 +47,7 @@ while low != high:
         # Guess lower. The high end of the range becomes 1 less than the guess.
         high = guess - 1
     elif high_low.casefold() == "c":
-        print(""">>========================================<<
+        print(r""">>========================================<<
 ||                                        ||
 ||      ___  __        __          _      ||
 ||     |_ _| \ \      / /__  _ __ | |     ||
